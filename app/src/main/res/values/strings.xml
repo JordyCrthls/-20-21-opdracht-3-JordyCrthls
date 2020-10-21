@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyToDo</string>
+    <string name="actief">Actief</string>
+    <string name="niet_actief">Niet actief</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
